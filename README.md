@@ -70,26 +70,26 @@ Ela é responsável por métodos de leitura e validação de entrada, como leitu
 
 O sistema possui um menu interativo com as seguintes opções:
 
-1. Listar usuários  
-2. Listar equipes  
-3. Listar projetos  
-4. Listar tarefas  
-5. Listar tarefas por status  
-6. Listar membros de uma equipe  
-7. Listar equipes de um projeto  
-8. Listar projetos de uma equipe  
-9. Exibir detalhes de uma tarefa  
-10. Alterar status da tarefa  
-11. Alterar status do projeto  
-12. Cadastrar nova tarefa  
-13. Cadastrar novo projeto  
-14. Listar tarefas de um projeto  
-15. Cadastrar novo usuário  
-16. Cadastrar nova equipe  
-17. Adicionar membro à equipe  
-18. Vincular equipe a projeto  
-19. Relatório geral de acompanhamento  
-0. Sair  
+1 - Listar usuários  
+2 - Listar equipes  
+3 - Listar projetos  
+4 - Listar tarefas  
+5 - Listar tarefas por status  
+6 - Listar membros de uma equipe  
+7 - Listar equipes de um projeto  
+8 - Listar projetos de uma equipe  
+9 - Exibir detalhes de uma tarefa  
+10 - Alterar status da tarefa  
+11 - Alterar status do projeto  
+12 - Cadastrar nova tarefa  
+13 - Cadastrar novo projeto  
+14 - Listar tarefas de um projeto  
+15 - Cadastrar novo usuário  
+16 - Cadastrar nova equipe  
+17 - Adicionar membro à equipe  
+18 - Vincular equipe a projeto  
+19 - Relatório geral de acompanhamento  
+0 - Sair
 
 ## Validações implementadas
 
